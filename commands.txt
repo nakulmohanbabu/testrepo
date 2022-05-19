@@ -6,3 +6,6 @@ git add -A => add all untracked files to sA
 
 git commit -m "msg"=> sa=> local repo
 
+git remote add name path
+
+git push -u name branch
